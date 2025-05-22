@@ -1,2 +1,2 @@
 # alu-zero_day
-git project
+git school projects
